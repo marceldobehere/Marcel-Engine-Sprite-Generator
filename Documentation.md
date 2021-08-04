@@ -3,12 +3,15 @@ This is the documentation for Marcel Engine.
 
 ### Table of Contents  
 - [Getting Started](#getting-started)
+- [Drawing Mode and General Things](#drawing-mode-and-general-things)
   * [Movement](#movement)
   * [Changing The Pixel Colour](#changing-the-pixel-colour)
   * [Changing The Backround Colour](#changing-the-backround-colour)
   * [Other](#other)
   * [Tools](#tools)
   * [Tool List](#tool-list)
+- [The Menu](#the-menu)
+
 
 
 
