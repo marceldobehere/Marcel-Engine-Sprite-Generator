@@ -14,7 +14,10 @@ This is the documentation for Marcel Engine.
 
 
 ## Getting Started
+To get started just download the newest Build of the sprite editor. (Either the Visual studio project or the packaged MEPKG File)
 
+If you cant open the MEPKG File then you have to install the opener first. (https://github.com/marceldobehere/Marcel-Engine-Packaging-Kit)
+And If you are using the Visual studio Project then just compile and run it. (NOTE: The sprite Files will be exported in the bin folder)
 
 
 
