@@ -19,6 +19,9 @@ To get started just download the newest Build of the sprite editor. (Either the 
 If you cant open the MEPKG File then you have to install the opener first. (https://github.com/marceldobehere/Marcel-Engine-Packaging-Kit)
 And If you are using the Visual studio Project then just compile and run it. (NOTE: The sprite Files will be exported in the bin folder)
 
+## Drawing Mode and General Things
+When you start the program, you will automatically be in drawing mode.
+You may not see it, and if you see something really small, then try zooming in. (Ctrl and the scroll wheel)
 
 
 ### Movement
@@ -63,6 +66,13 @@ Just press Enter or P again when you are done.
 
 
 
+## The Menu
+
+In the Menu you can im/export your sprites, delete the current sprite and also resize it.
+
+You can select the options by choosing them with the cursor and pressing Enter.
+
+(NOTE: When you export or import sprite, please always type .mesf at the end of the filenames!)
 
 
 
